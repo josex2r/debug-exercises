@@ -1,0 +1,14 @@
+{
+  "name": "debug-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async-await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "exercise-1": "node exercise-1/index.js",
+    "exercise-2": "node exercise-2/index.js",
+    "exercise-3": "node exercise-3/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
